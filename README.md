@@ -1,34 +1,53 @@
-- Meine Arbeitsweise:
-Ich entwickle moderne Software und nutze aktuelle Technologien sowie KI-Tools zur Unterstützung beim Programmieren.
-Durch den Einsatz von KI kann ich Code analysieren, Fehler schneller finden und Lösungen effizienter verbessern.
-Mein Ziel ist es, sauberen, verständlichen und funktionalen Code zu schreiben und Projekte professionell umzusetzen.
+# ~/ihateyoualltime
 
-- Kenntnisse:
-HTML5,
-CSS3,
-JavaScript,
-Python,
-Git und GitHub,
-Responsive Webdesign,
-Prompt Engineering,
-KI-gestützte Entwicklung.
+AI-assisted developer interested in Python, automation and modern web development.
 
-- Projekte:
-
-'Telegram Bots'
-
-Entwicklung von Telegram-Bots mit Python.
-Ich arbeite unter anderem mit Bibliotheken wie aiogram und telebot.
-
-'Moderne Webseiten'
-
-Erstellung von responsiven Webseiten und Landing Pages mit modernem Design, Animationen und optimierter Darstellung für verschiedene Geräte.
-
-'Windows Tools'
-
-Entwicklung praktischer Programme und Automatisierungsskripte für Windows, die als .exe-Dateien genutzt werden können.
+I use AI tools to help with coding, debugging and building real projects.  
+My main interest is prompt engineering and learning how to effectively work with AI.
 
 
-- Ziel:
+## Skills
 
-Ich möchte mich kontinuierlich weiterentwickeln, professionelle Software entwickeln und moderne Lösungen für reale Probleme schaffen.
+- Python
+- HTML5 / CSS3
+- JavaScript
+- Git & GitHub
+- Tkinter
+- PyInstaller
+- Prompt Engineering
+- AI-assisted development
+
+
+## Projects
+
+### python-automation-tools
+
+Windows toolkit built with Python.
+
+Includes:
+
+- Temporary file cleaner
+- Password generator
+- File organizer
+- System information viewer
+
+Repository:
+
+https://github.com/ihateyoualltime/python-automation-tools
+
+
+## Goals
+
+Improve my programming skills, create useful software and explore the possibilities of AI-assisted development.
+
+
+## Contact
+
+GitHub:
+https://github.com/ihateyoualltime
+
+Telegram:
+@hateyoualltime
+
+Email:
+ihateyoualltime@proton.me
