@@ -16,15 +16,19 @@ KI-gestützte Entwicklung
 - Projekte:
 
 'Telegram Bots'
+
 Entwicklung von Telegram-Bots mit Python.
 Ich arbeite unter anderem mit Bibliotheken wie aiogram und telebot.
 
 'Moderne Webseiten'
+
 Erstellung von responsiven Webseiten und Landing Pages mit modernem Design, Animationen und optimierter Darstellung für verschiedene Geräte.
 
 'Windows Tools'
+
 Entwicklung praktischer Programme und Automatisierungsskripte für Windows, die als .exe-Dateien genutzt werden können.
 
 
 - Ziel:
+
 Ich möchte mich kontinuierlich weiterentwickeln, professionelle Software entwickeln und moderne Lösungen für reale Probleme schaffen.
