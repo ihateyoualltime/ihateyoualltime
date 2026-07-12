@@ -4,14 +4,14 @@ Durch den Einsatz von KI kann ich Code analysieren, Fehler schneller finden und 
 Mein Ziel ist es, sauberen, verständlichen und funktionalen Code zu schreiben und Projekte professionell umzusetzen.
 
 - Kenntnisse:
-HTML5
-CSS3
-JavaScript
-Python
-Git und GitHub
-Responsive Webdesign
-Prompt Engineering
-KI-gestützte Entwicklung
+HTML5,
+CSS3,
+JavaScript,
+Python,
+Git und GitHub,
+Responsive Webdesign,
+Prompt Engineering,
+KI-gestützte Entwicklung.
 
 - Projekte:
 
