@@ -54,5 +54,3 @@ Telegram:
 
 Email:
 ihateyoualltime@proton.me
-
-![Profile Views](https://glitch.me)
