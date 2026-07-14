@@ -35,7 +35,6 @@ Repository:
 
 https://github.com/ihateyoualltime/python-automation-tools
 https://github.com/ihateyoualltime/minimal-portfolio
-
 https://github.com/ihateyoualltime/my-portfolio
 
 ## Goals
